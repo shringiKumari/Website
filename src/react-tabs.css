@@ -1,8 +1,8 @@
-.react-tabs__tab-list {
+/* .react-tabs__tab-list {
   border-bottom: 1px solid #aaa;
   margin: 0 0 10px;
   padding: 0;
-}
+} */
 
 .react-tabs__tab {
   display: inline-block;
@@ -17,9 +17,7 @@
 
 .react-tabs__tab--selected {
   background: #fff;
-  border-color: #aaa;
-  color: black;
-  border-radius: 5px 5px 0 0;
+  color: #652626;
 }
 
 .react-tabs__tab-panel {
