@@ -13,15 +13,28 @@
   list-style: none;
   padding: 6px 12px;
   cursor: pointer;
+  color: #000000;
+  font-family: sans-serif;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 50px;
+  font-size: 19px;
 }
 
 .react-tabs__tab--selected {
   background: #fff;
-  color: #652626;
+  color: #858585;
 }
 
 .react-tabs__tab-panel {
   display: none;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 300px;
+  margin-left: 300px;
+  font-size: 17px;
 }
 
 .react-tabs__tab-panel--selected {
@@ -48,3 +61,5 @@
   bottom: -5px;
   background: #fff;
 }
+
+
